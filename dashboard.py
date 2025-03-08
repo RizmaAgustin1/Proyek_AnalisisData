@@ -4,7 +4,6 @@ import seaborn as sns
 import streamlit as st
 import plotly.express as px
 import plotly.graph_objects as go
-from babel.numbers import format_currency
 
 # --- Setup Layout ---
 st.set_page_config(page_title='Bike Sharing Dashboard', layout='wide')
